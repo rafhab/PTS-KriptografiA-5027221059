@@ -1,0 +1,1 @@
+# Spesifikasi Algoritma Mini-AES

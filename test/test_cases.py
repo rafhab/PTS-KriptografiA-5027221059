@@ -1,0 +1,1 @@
+# Test cases for Mini-AES encryption and decryption

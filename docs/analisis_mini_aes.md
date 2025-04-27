@@ -1,0 +1,1 @@
+# Analisis kelebihan dan keterbatasan Mini-AES
